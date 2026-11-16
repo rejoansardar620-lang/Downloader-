@@ -1,5 +1,7 @@
 # Start here: new developer onboarding
 
+> **Recover project context after a long chat:** Open the [continuity archive](context-archive/README.md), the [single master document](context-archive/PROJECT_MASTER_CONTEXT.md) or [resume prompt](context-archive/RESUME_PROMPT.md).
+
 **Current status:** The repository contains a plan and contributor instructions, not a running downloader.
 
 ## Understand the product in 10 minutes

@@ -1,5 +1,7 @@
 # Instructions for coding agents and AI contributors
 
+> **Session continuity:** When a new conversation lacks history, use [docs/context-archive/README.md](docs/context-archive/README.md) and the concise [resume prompt](docs/context-archive/RESUME_PROMPT.md). The [master archive](docs/context-archive/PROJECT_MASTER_CONTEXT.md) is a dated historical snapshot, not a replacement for live files and CI; read it selectively to conserve context and credits.
+
 You are working on **Downloader**, a planned desktop-first download manager, browser companion and authorized media-processing platform. Read this file and the linked product documents before changing code.
 
 ## Source of truth, in order

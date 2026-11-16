@@ -1,5 +1,7 @@
 # Downloader — product blueprint
 
+> **Lost this chat?** Start with the [complete project memory & document archive](docs/context-archive/README.md), the [single master document](docs/context-archive/PROJECT_MASTER_CONTEXT.md), the [Word-readable copy](docs/context-archive/PROJECT_MASTER_CONTEXT.rtf), or the [new-chat/Codex resume prompt](docs/context-archive/RESUME_PROMPT.md).
+
 > **Status: planning and M0 engineering audit in progress. The upstream browser-extension candidate builds, but no Downloader application has been imported, implemented or released here yet.**
 
 This is the public collaboration hub for an independently branded, cross-platform **download manager and authorized media-processing platform**. The ambition is to build a credible competitor to established desktop download managers, video downloaders, and browser media tools—not merely a page that accepts a YouTube URL.
